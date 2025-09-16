@@ -1,8 +1,4 @@
-Header
-
 ## Hi, my name is Georgiy, i'm a fullstack developer </>
-
-about me
 
 ## languages and tools
 
@@ -23,15 +19,6 @@ about me
 ![CSS](https://img.shields.io/badge/-css-%23323330?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-%23323330?style=flat&logo=bootstrap)
 ![Vite](https://img.shields.io/badge/-vite-%23323330?style=flat&logo=vite)
-
-folow me
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+![Python](https://img.shields.io/badge/-python-%23323330?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-php-%23323330?style=flat&logo=php)
+![BAS](https://img.shields.io/badge/-BAS-%23323330)
